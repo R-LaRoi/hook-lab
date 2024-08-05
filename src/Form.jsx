@@ -1,4 +1,4 @@
-import {useState, useEffect} from "react";
+import {useState} from "react";
 
 // Define a function that is our component, always make sure to declare the props parameter so you can use props in your component
 export default function Form (props) {
