@@ -2,7 +2,7 @@ import {useState, useEffect} from "react";
 import "./App.css";
 
 import MovieDisplay from "./Components/Movies";
-import Form from "./Form";
+import Form from "./Components/Form";
 
 export default function App() {
   //variable with your apiKey
